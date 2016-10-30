@@ -1,9 +1,5 @@
 # ieeevis.org
 
-This is the Jekyll version of the http://ieeevis.org website.
-
-## Contributing
-
-If you're contributing content, but not administrating the website
-itself, you will want to follow the
-[contributor's guide](docs/contrib.md).
+The git repo for the http://ieeevis.org website has
+[moved under the ieee-vgtc organization](http://github.com/ieee-vgtc/ieeevis.org). Please
+use that instead.

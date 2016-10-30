@@ -1,6 +1,0 @@
----
-title: Papers Sessions
-layout: main
-permalink: /year/2016/info/overview-amp-topics/papers-sessions
----
-
